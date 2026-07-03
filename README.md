@@ -24,4 +24,4 @@ This repository showcases a 4-page interactive dashboard engineered to clean, st
 1. Download the `.pbix` file from this repository.
 2. Open the file natively inside **Power BI Desktop**.
 3. Toggle the dynamic slicers, date bounds, and visual drill-downs to explore live cross-filtering patterns.
-4. 
+ 
